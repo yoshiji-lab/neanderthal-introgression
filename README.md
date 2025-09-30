@@ -44,7 +44,7 @@ Generation time gen_time_yrs = 29
 t_tot_gen = (t_split + (t_split − archaic_age)) / gen_time
 
 
-# 03.haplotype.R
+# 03.haplotype_BMP1.R
 BMP1 (Fenland): region slice, LD span, recomb rate & P(common ancestor)
 
 ## What this script does (brief)
